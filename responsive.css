@@ -44,10 +44,6 @@ body {
     width: 70%;
 
   }
-
-  .list-view-filter li{
-    grid-column: span 1;
-  }
 .footer
 {
   margin-top: 250px;
